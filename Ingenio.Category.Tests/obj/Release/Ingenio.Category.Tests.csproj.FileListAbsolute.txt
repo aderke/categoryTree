@@ -1,0 +1,9 @@
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\Ingenio.Category.Tests\bin\Release\Ingenio.Category.Tests.dll
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\Ingenio.Category.Tests\bin\Release\Ingenio.Category.Tests.pdb
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\Ingenio.Category.Tests\bin\Release\IngenioCategory.exe
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\Ingenio.Category.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\Ingenio.Category.Tests\bin\Release\IngenioCategory.pdb
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\Ingenio.Category.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\Ingenio.Category.Tests\obj\Release\Ingenio.Category.Tests.csprojResolveAssemblyReference.cache
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\Ingenio.Category.Tests\obj\Release\Ingenio.Category.Tests.dll
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\Ingenio.Category.Tests\obj\Release\Ingenio.Category.Tests.pdb

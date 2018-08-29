@@ -1,0 +1,6 @@
+C:\Users\freezn\documents\visual studio 2015\Projects\IngenioCategory\IngenioCategory\bin\Debug\IngenioCategory.exe.config
+C:\Users\freezn\documents\visual studio 2015\Projects\IngenioCategory\IngenioCategory\bin\Debug\IngenioCategory.exe
+C:\Users\freezn\documents\visual studio 2015\Projects\IngenioCategory\IngenioCategory\bin\Debug\IngenioCategory.pdb
+C:\Users\freezn\documents\visual studio 2015\Projects\IngenioCategory\IngenioCategory\obj\Debug\Ingenio.Category.csprojResolveAssemblyReference.cache
+C:\Users\freezn\documents\visual studio 2015\Projects\IngenioCategory\IngenioCategory\obj\Debug\IngenioCategory.exe
+C:\Users\freezn\documents\visual studio 2015\Projects\IngenioCategory\IngenioCategory\obj\Debug\IngenioCategory.pdb

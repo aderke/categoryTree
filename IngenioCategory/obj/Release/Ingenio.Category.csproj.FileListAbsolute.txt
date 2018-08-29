@@ -1,0 +1,5 @@
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\IngenioCategory\bin\Release\IngenioCategory.exe.config
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\IngenioCategory\bin\Release\IngenioCategory.exe
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\IngenioCategory\bin\Release\IngenioCategory.pdb
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\IngenioCategory\obj\Release\IngenioCategory.exe
+C:\Users\freezn\Documents\Visual Studio 2015\Projects\IngenioCategory\IngenioCategory\obj\Release\IngenioCategory.pdb
